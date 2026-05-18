@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+ml/models/
+data/synthetic/*.csv
+*.joblib
+*.pkl
+.DS_Store
+node_modules/
